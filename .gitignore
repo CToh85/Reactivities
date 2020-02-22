@@ -7,6 +7,7 @@
 # User added files
 .DS_Store
 appsettings.json
+appsettings.Development.json
 *.db
 .vscode
 
